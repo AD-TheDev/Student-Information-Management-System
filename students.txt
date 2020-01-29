@@ -1,0 +1,27 @@
+3
+
+180020091
+EEstudent1
+1
+2
+3
+CS102
+EE102
+PH102
+
+180030091
+MEstudent1
+2
+2
+3
+CS102
+EE102
+PH102
+
+180010014
+Amogh Dasture
+0
+2
+1
+ITUS
+
